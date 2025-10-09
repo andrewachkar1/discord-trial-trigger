@@ -29,10 +29,10 @@ Once executed, it triggers Discord’s built-in Nitro trial mechanisms, granting
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/discord-trial-trigger-tool.git
+git clone https://github.com/imlittledoo/discord-trial-trigger.git
 
 # Navigate to the folder
-cd discord-trial-trigger-tool
+cd discord-trial-trigger
 ```
 
 ---
@@ -54,7 +54,7 @@ Use responsibly and **at your own risk**. This project is for **educational purp
 ---
 
 ## 🧑‍💻 Author
-Developed by **Andrew Achkar**  
+Developed by **Andrew AL ACHKAR**  
 If you like this project, consider giving it a ⭐ 
 
 ---
